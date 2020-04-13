@@ -1,0 +1,29 @@
+input[type=submit] {
+    background-color: grey;
+    color: black;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+input[type=submit]:focus {
+  background-color: #4d4d4d;
+  color: white;
+}
+
+input[type=submit]:hover {
+  background-color: #4d4d4d;
+  color: white;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+div.post {
+   border: solid black 2px;
+   margin: 5px 0;
+   width: 50%;
+}
